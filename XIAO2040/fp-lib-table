@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "xiao2040 schematics")(type "KiCad")(uri "${KIPRJMOD}/xiao2040 schematics")(options "")(descr ""))
+  (lib (name "hitek725")(type "KiCad")(uri "C:/Users/B450/Desktop/Projects/PCB-Design/hitek725.pretty")(options "")(descr ""))
+  (lib (name "Schematic Library")(type "KiCad")(uri "C:/Users/B450/Desktop/Projects/PCB-Design/random-keyboard-parts.pretty/Schematic Library")(options "")(descr ""))
+  (lib (name "locallib")(type "KiCad")(uri "C:/Users/B450/Desktop/Projects/PCB-Design/locallib.pretty")(options "")(descr ""))
+)

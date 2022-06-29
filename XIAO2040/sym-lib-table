@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "xiao-rp2040")(type "KiCad")(uri "${KIPRJMOD}/xiao2040 schematics/xiao-rp2040.kicad_sym")(options "")(descr ""))
+  (lib (name "hitek725")(type "KiCad")(uri "C:/Users/B450/Desktop/Projects/PCB-Design/hitek725.pretty/hitek725.kicad_sym")(options "")(descr ""))
+)

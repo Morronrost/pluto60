@@ -1,0 +1,67 @@
+### Module positions - created on Sun May 29 01:48:56 2022 ###
+### Printed by Pcbnew version (6.0.4)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val          Package                PosX       PosY       Rot  Side
+D1        D_Small      D_SOD-123          -26.1937    74.6125    0.0000  bottom
+D2        D_Small      D_SOD-123          -39.6875    59.5312  -90.0000  bottom
+D3        D_Small      D_SOD-123          -44.4500    40.4812  -90.0000  bottom
+D4        D_Small      D_SOD-123          -46.0375    21.4312  -90.0000  bottom
+D5        D_Small      D_SOD-123          -39.6875     3.9688  -90.0000  bottom
+D6        D_Small      D_SOD-123          -45.2437    73.8187   90.0000  bottom
+D7        D_Small      D_SOD-123          -58.7375    59.5312   90.0000  bottom
+D8        D_Small      D_SOD-123          -63.5000    40.4812   90.0000  bottom
+D9        D_Small      D_SOD-123          -73.0250    21.4312   90.0000  bottom
+D10       D_Small      D_SOD-123          -58.7375     3.9688   90.0000  bottom
+D11       D_Small      D_SOD-123          -68.2625    78.5812  -90.0000  bottom
+D12       D_Small      D_SOD-123          -77.7875    59.5312  -90.0000  bottom
+D13       D_Small      D_SOD-123          -82.5500    40.4812  -90.0000  bottom
+D14       D_Small      D_SOD-123          -92.0750    21.4312  -90.0000  bottom
+D15       D_Small      D_SOD-123          -87.3125     3.9688  -90.0000  bottom
+D16       D_Small      D_SOD-123          -87.3125    78.5812   90.0000  bottom
+D17       D_Small      D_SOD-123          -96.8375    59.5312   90.0000  bottom
+D18       D_Small      D_SOD-123         -101.6000    40.4812   90.0000  bottom
+D19       D_Small      D_SOD-123         -111.1250    21.4312   90.0000  bottom
+D20       D_Small      D_SOD-123         -173.8312     3.9688   90.0000  bottom
+D21       D_Small      D_SOD-123         -106.3625    78.5812  -90.0000  bottom
+D22       D_Small      D_SOD-123         -115.8875    59.5312  -90.0000  bottom
+D23       D_Small      D_SOD-123         -120.6500    40.4812  -90.0000  bottom
+D24       D_Small      D_SOD-123         -130.1750    21.4312  -90.0000  bottom
+D25       D_Small      D_SOD-123         -249.2375     3.9688  -90.0000  bottom
+D26       D_Small      D_SOD-123         -125.4125    78.5812   90.0000  bottom
+D27       D_Small      D_SOD-123         -134.9375    59.5312   90.0000  bottom
+D28       D_Small      D_SOD-123         -139.7000    40.4812   90.0000  bottom
+D29       D_Small      D_SOD-123         -149.2250    21.4312   90.0000  bottom
+D30       D_Small      D_SOD-123         -268.2875     3.9688   90.0000  bottom
+D31       D_Small      D_SOD-123         -144.4625    78.5812  -90.0000  bottom
+D32       D_Small      D_SOD-123         -153.9875    59.5312  -90.0000  bottom
+D33       D_Small      D_SOD-123         -158.7500    40.4812  -90.0000  bottom
+D34       D_Small      D_SOD-123         -168.2750    21.4312  -90.0000  bottom
+D35       D_Small      D_SOD-123         -271.4625     3.9688  -90.0000  bottom
+D36       D_Small      D_SOD-123         -163.5125    78.5812   90.0000  bottom
+D37       D_Small      D_SOD-123         -173.0375    59.5312   90.0000  bottom
+D38       D_Small      D_SOD-123         -177.8000    40.4812   90.0000  bottom
+D39       D_Small      D_SOD-123         -187.3250    21.4312   90.0000  bottom
+D40       D_Small      D_SOD-123         -258.7625    78.5812   90.0000  bottom
+D41       D_Small      D_SOD-123         -182.5625    78.5812  -90.0000  bottom
+D42       D_Small      D_SOD-123         -192.0875    59.5312  -90.0000  bottom
+D43       D_Small      D_SOD-123         -196.8500    40.4812  -90.0000  bottom
+D44       D_Small      D_SOD-123         -206.3750    21.4312  -90.0000  bottom
+D45       D_Small      D_SOD-123         -292.1000    78.5812  -90.0000  bottom
+D46       D_Small      D_SOD-123         -201.6125    78.5812   90.0000  bottom
+D47       D_Small      D_SOD-123         -211.1375    59.5312   90.0000  bottom
+D48       D_Small      D_SOD-123         -215.9000    40.4812   90.0000  bottom
+D49       D_Small      D_SOD-123         -225.4250    21.4312   90.0000  bottom
+D50       D_Small      D_SOD-123         -295.2750    55.5625  -90.0000  bottom
+D51       D_Small      D_SOD-123         -220.6625    78.5812  -90.0000  bottom
+D52       D_Small      D_SOD-123         -230.1875    59.5312  -90.0000  bottom
+D53       D_Small      D_SOD-123         -234.9500    40.4812  -90.0000  bottom
+D54       D_Small      D_SOD-123         -244.4750    21.4312  -90.0000  bottom
+D55       D_Small      D_SOD-123         -239.7125    78.5812   90.0000  bottom
+D56       D_Small      D_SOD-123         -249.2375    59.5312   90.0000  bottom
+D57       D_Small      D_SOD-123         -254.0000    40.4812   90.0000  bottom
+D58       D_Small      D_SOD-123         -248.4437    21.4312   90.0000  bottom
+D59       D_Small      D_SOD-123         -273.0500    40.4812   90.0000  bottom
+D60       D_Small      D_SOD-123         -268.2875    59.5312  -90.0000  bottom
+M1        XIAO-RP2040  XIAO-RP2040        -50.1650    73.7232  180.0000  bottom
+## End

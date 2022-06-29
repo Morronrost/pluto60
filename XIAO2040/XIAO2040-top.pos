@@ -1,0 +1,67 @@
+### Module positions - created on Sun May 29 01:48:56 2022 ###
+### Printed by Pcbnew version (6.0.4)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val         Package                                   PosX       PosY       Rot  Side
+MX1       MX-NoLED    Hitek725-1U                            22.2250    85.7250    0.0000  top
+MX2       MX-NoLED    Hitek725-1.5U                          26.9875    66.6750    0.0000  top
+MX3       MX-NoLED    Hitek725-1.75U                         29.3687    47.6250    0.0000  top
+MX4       MX-NoLED    Hitek725-2.25U                         34.1313    28.5750    0.0000  top
+MX5       MX-NoLED    Hitek725-1.5U                          26.9875     9.5250    0.0000  top
+MX6       MX-NoLED    Hitek725-1U                            41.2750    85.7250    0.0000  top
+MX7       MX-NoLED    Hitek725-1U                            50.8000    66.6750    0.0000  top
+MX8       MX-NoLED    Hitek725-1U                            55.5625    47.6250    0.0000  top
+MX9       MX-NoLED    Hitek725-1U                            65.0875    28.5750    0.0000  top
+MX10      MX-NoLED    Hitek725-1U                            50.8000     9.5250    0.0000  top
+MX11      MX-NoLED    Hitek725-1U                            60.3250    85.7250    0.0000  top
+MX12      MX-NoLED    Hitek725-1U                            69.8500    66.6750    0.0000  top
+MX13      MX-NoLED    Hitek725-1U                            74.6125    47.6250    0.0000  top
+MX14      MX-NoLED    Hitek725-1U                            84.1375    28.5750    0.0000  top
+MX15      MX-NoLED    Hitek725-1.5U                          74.6125     9.5250    0.0000  top
+MX16      MX-NoLED    Hitek725-1U                            79.3750    85.7250    0.0000  top
+MX17      MX-NoLED    Hitek725-1U                            88.9000    66.6750    0.0000  top
+MX18      MX-NoLED    Hitek725-1U                            93.6625    47.6250    0.0000  top
+MX19      MX-NoLED    Hitek725-1U                           103.1875    28.5750    0.0000  top
+MX20      MX-NoLED    Hitek725-7U                           155.5750     9.5250    0.0000  top
+MX21      MX-NoLED    Hitek725-1U                            98.4250    85.7250    0.0000  top
+MX22      MX-NoLED    Hitek725-1U                           107.9500    66.6750    0.0000  top
+MX23      MX-NoLED    Hitek725-1U                           112.7125    47.6250    0.0000  top
+MX24      MX-NoLED    Hitek725-1U                           122.2375    28.5750    0.0000  top
+MX25      MX-NoLED    Hitek725-1.5U                         236.5375     9.5250    0.0000  top
+MX26      MX-NoLED    Hitek725-1U                           117.4750    85.7250    0.0000  top
+MX27      MX-NoLED    Hitek725-1U                           127.0000    66.6750    0.0000  top
+MX28      MX-NoLED    Hitek725-1U                           131.7625    47.6250    0.0000  top
+MX29      MX-NoLED    Hitek725-1U                           141.2875    28.5750    0.0000  top
+MX30      MX-NoLED    Hitek725-1U                           260.3500     9.5250    0.0000  top
+MX31      MX-NoLED    Hitek725-1U                           136.5250    85.7250    0.0000  top
+MX32      MX-NoLED    Hitek725-1U                           146.0500    66.6750    0.0000  top
+MX33      MX-NoLED    Hitek725-1U                           150.8125    47.6250    0.0000  top
+MX34      MX-NoLED    Hitek725-1U                           160.3375    28.5750    0.0000  top
+MX35      MX-NoLED    Hitek725-1.5U                         284.1625     9.5250    0.0000  top
+MX36      MX-NoLED    Hitek725-1U                           155.5750    85.7250    0.0000  top
+MX37      MX-NoLED    Hitek725-1U                           165.1000    66.6750    0.0000  top
+MX38      MX-NoLED    Hitek725-1U                           169.8625    47.6250    0.0000  top
+MX39      MX-NoLED    Hitek725-1U                           179.3875    28.5750    0.0000  top
+MX40      MX-NoLED    Hitek725-1U                           250.8250    85.7250    0.0000  top
+MX41      MX-NoLED    Hitek725-1U                           174.6250    85.7250    0.0000  top
+MX42      MX-NoLED    Hitek725-1U                           184.1500    66.6750    0.0000  top
+MX43      MX-NoLED    Hitek725-1U                           188.9125    47.6250    0.0000  top
+MX44      MX-NoLED    Hitek725-1U                           198.4375    28.5750    0.0000  top
+MX45      MX-NoLED    Hitek725-2U                           279.4000    85.7250    0.0000  top
+MX46      MX-NoLED    Hitek725-1U                           193.6750    85.7250    0.0000  top
+MX47      MX-NoLED    Hitek725-1U                           203.2000    66.6750    0.0000  top
+MX48      MX-NoLED    Hitek725-1U                           207.9625    47.6250    0.0000  top
+MX49      MX-NoLED    Hitek725-1U                           217.4875    28.5750    0.0000  top
+MX50      MX-NoLED    Hitek725-BigAssEnter-separated-pins   279.4000    57.1500    0.0000  top
+MX51      MX-NoLED    Hitek725-1U                           212.7250    85.7250    0.0000  top
+MX52      MX-NoLED    Hitek725-1U                           222.2500    66.6750    0.0000  top
+MX53      MX-NoLED    Hitek725-1U                           227.0125    47.6250    0.0000  top
+MX54      MX-NoLED    Hitek725-1U                           236.5375    28.5750    0.0000  top
+MX55      MX-NoLED    Hitek725-1U                           260.3500    66.6750    0.0000  top
+MX56      MX-NoLED    Hitek725-1U                           231.7750    85.7250    0.0000  top
+MX57      MX-NoLED    Hitek725-1U                           241.3000    66.6750    0.0000  top
+MX58      MX-NoLED    Hitek725-1U                           246.0625    47.6250    0.0000  top
+MX59      MX-NoLED    Hitek725-2.75U                        272.2562    28.5750    0.0000  top
+MX60      MX-NoLED    Hitek725-1U                           265.1125    47.6250    0.0000  top
+REF**     60_Outline  60_Outline                            155.5750    47.6250    0.0000  top
+## End
