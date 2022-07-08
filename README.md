@@ -6,7 +6,7 @@ The PLUTO60 is a 60% PCB designed for Space Invader switches. The MCU Board is t
 - PRK Firmware
 - Japanese Duplex Matrix
 - USB C
-- GH60 Compatible
+- Not currently GH60 compatible due to misplaced mcu
 - Confirmed Working
 ## Layout
 Due to pin limitations, the PLUTO60 has a fixed ISO layout without split left-shift. It can however be used in an winkeyless configuration if desired.
