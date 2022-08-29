@@ -13,7 +13,18 @@ Due to pin limitations, the PLUTO60 has a fixed ISO layout without split left-sh
 
 ![Layout Image](/layout.png)
 
-Instructions on how to make a custom keymap can be found on the PRK Firmware wiki.
+
+
+## Instructions
+
+1. Install PRK and place the keymap on the MCU
+2. Solder all the switches in place
+3. Clip the legs of the "Esc" and "1" switches that are under the MCU
+4. Solder the MCU
+
+# Custom keymap
+
+Instructions on how to make a custom keymap can be found on the [PRK Firmware wiki](https://github.com/picoruby/prk_firmware/wiki/).
 
 ## Credits
 - Engicoder & Gvalch'ca for the Hitek 725 footprints
