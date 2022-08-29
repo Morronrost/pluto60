@@ -62,10 +62,10 @@
       36
     ],
     "visible_layers": "fffffff_ffffffff",
-    "zone_display_mode": 1
+    "zone_display_mode": 0
   },
   "meta": {
-    "filename": "XIAO2040.kicad_prl",
+    "filename": "PLUTO60.kicad_prl",
     "version": 3
   },
   "project": {

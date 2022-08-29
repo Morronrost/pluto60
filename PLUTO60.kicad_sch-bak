@@ -2143,7 +2143,7 @@
     (property "Reference" "#PWR?" (id 0) (at 264.795 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (id 1) (at 264.795 49.53 0))
+    (property "Value" "" (id 1) (at 264.795 49.53 0))
     (property "Footprint" "" (id 2) (at 264.795 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
